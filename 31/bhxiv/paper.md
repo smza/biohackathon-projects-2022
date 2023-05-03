@@ -31,6 +31,10 @@ authors:
   - name:  Rafael Andrade Buono
     orcid: 0000-0002-6675-3836
     affiliation: 6
+  - name:  Munazah Andrabi
+    orcid: 0000-0002-7718-5109
+    affiliation: 7
+    
  affiliations:
   - name: Luxembourg Center for Systems Biomedicine (LCSB), University of Luxembourg, Esch-sur-Alzette, Luxembourg
     index: 1
@@ -44,6 +48,8 @@ authors:
     index: 5
   - name: VIB Data core, ELIXIR Belgium
     index: 6
+  - name: The University of Manchester, ELIXIR UK
+    index: 7
 date: 11 November 2022
 event: BH22EU
 biohackathon_name: 'BioHackathon Europe 2022'
